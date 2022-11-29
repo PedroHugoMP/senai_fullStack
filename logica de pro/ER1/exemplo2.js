@@ -12,5 +12,9 @@ if (velocidade >100){
     console.log("voce foi multado" )
 
 }
+else {
+console.log ("livre de multa")
+
+}
 
 //saida
